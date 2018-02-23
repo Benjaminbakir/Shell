@@ -27,6 +27,9 @@ void SimpleCommand::cd() {
     pwd();
 }
 
+
+
+
 void SimpleCommand::pwd() {
     char buf[FILENAME_MAX];
     std::cout << getcwd(buf, FILENAME_MAX) << std::endl;
