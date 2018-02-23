@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++11
 
 CXX_DEFINES = -DANTLR4CPP_STATIC
 
-CXX_INCLUDES = -I/mnt/c/Users/benja/Desktop/Shell/runtime/src -I/mnt/c/Users/benja/Desktop/Shell/src 
+CXX_INCLUDES = -I/mnt/c/Users/benja/Documents/GitHub/Shell/runtime/src -I/mnt/c/Users/benja/Documents/GitHub/Shell/src 
 
