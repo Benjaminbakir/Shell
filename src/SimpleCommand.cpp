@@ -10,6 +10,8 @@ void SimpleCommand::execute() {
         cd();
     } else if (command == "pwd") {
         pwd();
+    } else if (command == "ls"){
+        ls();
     }
 
 }
@@ -32,5 +34,20 @@ void SimpleCommand::cd() {
 void SimpleCommand::pwd() {
     char buf[FILENAME_MAX];
     std::cout << getcwd(buf, FILENAME_MAX) << std::endl;
+}
+
+void SimpleCommand::ls() {
+    if (arguments.size() == 0){
+        char *args[] = {"ls", NULL};
+        execvp("ls", args);
+    }else if(arguments.size() == 1) {
+        if (arguments[0] == "-l") {
+            char *args[] = {"ls", "-l", NULL};
+            execvp("ls", args);
+        } else if (arguments[0] == "-a") {
+            char *args[] = {"ls", "-a", NULL};
+            execvp("ls", args);
+        }
+    }
 }
 
