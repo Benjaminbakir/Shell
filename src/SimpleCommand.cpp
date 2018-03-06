@@ -6,6 +6,10 @@ void SimpleCommand::execute() {
     std::cout << "FIXME: You should change SimpleCommand::execute()" << std::endl;
     // FIXME: Your code here...
 
+    int cid = fork();
+
+    if(cid==0)
+
     if (command == "cd") {
         cd();
     } else if (command == "pwd") {
@@ -13,7 +17,6 @@ void SimpleCommand::execute() {
     } else if (command == "ls"){
         ls();
     }
-
 }
 
 void SimpleCommand::cd() {
