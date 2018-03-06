@@ -23,6 +23,8 @@ class SimpleCommand {
         void cd();
         void pwd();
         void ls();
+        void cat();
+        void mkdir();
 
 	public:
 		SimpleCommand( std::string const &cmd )

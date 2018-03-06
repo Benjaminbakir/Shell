@@ -23,6 +23,8 @@ class IORedirect
 		int getOldFileDescriptor() const { return oldFileDesc; }
 		Type getType() const { return type; }
 		std::string const &getNewFile() const { return newFile; }
+
+		void execute();
 };
 
 #endif //SHELL_IOREDIRECT_H

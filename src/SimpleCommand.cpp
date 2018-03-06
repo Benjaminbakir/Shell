@@ -1,22 +1,41 @@
 #include <iostream>
 #include <unistd.h>
+#include <signal.h>
 #include "SimpleCommand.h"
 
 void SimpleCommand::execute() {
-    std::cout << "FIXME: You should change SimpleCommand::execute()" << std::endl;
+    //std::cout << "FIXME: You should change SimpleCommand::execute()" << std::endl;
     // FIXME: Your code here...
 
     int cid = fork();
+    if (cid == 0) {
 
-    if(cid==0)
+        if (command == "cd") {
+            cd();
+        } else if (command == "pwd") {
+            pwd();
+        } else if (command == "ls") {
+            ls();
+        } else if (command == "cat") {
+            cat();
+        }else if(command == "mkdir"){
+            mkdir();
 
-    if (command == "cd") {
-        cd();
-    } else if (command == "pwd") {
-        pwd();
-    } else if (command == "ls"){
-        ls();
+        }else{
+           printf("Unknown command!\n");
+
+        }
     }
+}
+
+void SimpleCommand::mkdir(){
+    if(arguments.size()==1){
+
+        char *args[] = {"mkdir", "Hello", NULL};
+        execvp("mkdir", args);
+    }
+    std::cout<< "mkdir" << std::endl;
+
 }
 
 void SimpleCommand::cd() {
@@ -30,6 +49,12 @@ void SimpleCommand::cd() {
         chdir(c);
     }
     pwd();
+}
+
+void SimpleCommand::cat(){
+    if(arguments.size()==0){
+        char *args[]= {"cat",NULL};
+    }
 }
 
 
@@ -54,3 +79,14 @@ void SimpleCommand::ls() {
     }
 }
 
+void IORedirect:: execute(){
+    if(type==OUTPUT){
+        std::cout << "Output"<< std::endl;
+
+    }else if(type==APPEND){
+
+    }else if(type==INPUT){
+
+    }
+
+}

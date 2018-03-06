@@ -3341,6 +3341,8 @@ string
 /mnt/c/Users/Koen/CLionProjects/Shell/src/Pipeline.cpp
 iostream
 -
+unistd.h
+-
 Pipeline.h
 /mnt/c/Users/Koen/CLionProjects/Shell/src/Pipeline.h
 SimpleCommand.h
@@ -3366,6 +3368,8 @@ vector
 iostream
 -
 unistd.h
+-
+signal.h
 -
 SimpleCommand.h
 /mnt/c/Users/Koen/CLionProjects/Shell/src/SimpleCommand.h
