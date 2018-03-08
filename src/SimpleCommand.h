@@ -22,6 +22,9 @@ class SimpleCommand {
 		std::vector<IORedirect>  redirects;
         void cd();
         void execCmd();
+        void outRedirection(int, IORedirect);
+        void inRedirection(IORedirect);
+
 
 
 	public:
