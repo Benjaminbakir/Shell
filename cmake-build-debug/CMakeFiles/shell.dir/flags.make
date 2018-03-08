@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++11
 
 CXX_DEFINES = -DANTLR4CPP_STATIC
 
-CXX_INCLUDES = -I/mnt/c/Users/Koen/CLionProjects/Shell/runtime/src -I/mnt/c/Users/Koen/CLionProjects/Shell/src 
+CXX_INCLUDES = -I/mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src -I/mnt/c/Users/benja/CLionProjects/Shell2.0/src 
 

@@ -158,10 +158,10 @@ CMakeFiles/shell.dir/gen/ShellGrammarBaseVisitor.cpp.o
  ../runtime/src/tree/xpath/XPathTokenElement.h
  ../runtime/src/tree/xpath/XPathWildcardAnywhereElement.h
  ../runtime/src/tree/xpath/XPathWildcardElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarBaseVisitor.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarBaseVisitor.h
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarParser.h
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarVisitor.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarBaseVisitor.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarBaseVisitor.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarParser.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarVisitor.h
 CMakeFiles/shell.dir/gen/ShellGrammarLexer.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/ANTLRErrorStrategy.h
@@ -319,8 +319,8 @@ CMakeFiles/shell.dir/gen/ShellGrammarLexer.cpp.o
  ../runtime/src/tree/xpath/XPathTokenElement.h
  ../runtime/src/tree/xpath/XPathWildcardAnywhereElement.h
  ../runtime/src/tree/xpath/XPathWildcardElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarLexer.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarLexer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarLexer.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarLexer.h
 CMakeFiles/shell.dir/gen/ShellGrammarParser.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/ANTLRErrorStrategy.h
@@ -478,9 +478,9 @@ CMakeFiles/shell.dir/gen/ShellGrammarParser.cpp.o
  ../runtime/src/tree/xpath/XPathTokenElement.h
  ../runtime/src/tree/xpath/XPathWildcardAnywhereElement.h
  ../runtime/src/tree/xpath/XPathWildcardElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarParser.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarParser.h
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarVisitor.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarParser.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarParser.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarVisitor.h
 CMakeFiles/shell.dir/gen/ShellGrammarVisitor.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/ANTLRErrorStrategy.h
@@ -638,171 +638,171 @@ CMakeFiles/shell.dir/gen/ShellGrammarVisitor.cpp.o
  ../runtime/src/tree/xpath/XPathTokenElement.h
  ../runtime/src/tree/xpath/XPathWildcardAnywhereElement.h
  ../runtime/src/tree/xpath/XPathWildcardElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarParser.h
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarVisitor.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarVisitor.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarParser.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarVisitor.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarVisitor.h
 CMakeFiles/shell.dir/runtime/src/ANTLRErrorListener.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/ANTLRErrorStrategy.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorStrategy.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorStrategy.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorStrategy.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorStrategy.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/ANTLRFileStream.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRFileStream.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRFileStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRInputStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CharStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/StringUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRFileStream.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRFileStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRInputStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CharStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/StringUtils.h
 CMakeFiles/shell.dir/runtime/src/ANTLRInputStream.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRInputStream.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRInputStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CharStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/CPPUtils.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/StringUtils.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRInputStream.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRInputStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CharStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/CPPUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/StringUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/BailErrorStrategy.cpp.o
  ../runtime/src/support/Any.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorStrategy.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/BailErrorStrategy.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/BailErrorStrategy.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/DefaultErrorStrategy.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/InputMismatchException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Parser.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ParserRuleContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ProxyErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Recognizer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RuleContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/IntervalSet.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/CPPUtils.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTreeListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorStrategy.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/BailErrorStrategy.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/BailErrorStrategy.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/DefaultErrorStrategy.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/InputMismatchException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Parser.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ParserRuleContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ProxyErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Recognizer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RuleContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/IntervalSet.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/CPPUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTree.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTreeListener.h
 CMakeFiles/shell.dir/runtime/src/BaseErrorListener.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/BaseErrorListener.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/BaseErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/BaseErrorListener.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/BaseErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/BufferedTokenStream.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/Any.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/BufferedTokenStream.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/BufferedTokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CharStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Lexer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ProxyErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Recognizer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RuleContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/WritableToken.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/CPPUtils.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTree.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/BufferedTokenStream.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/BufferedTokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CharStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Lexer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ProxyErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Recognizer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RuleContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/WritableToken.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/CPPUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTree.h
 CMakeFiles/shell.dir/runtime/src/CharStream.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CharStream.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CharStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CharStream.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CharStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/CommonToken.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CharStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CommonToken.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CommonToken.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ProxyErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Recognizer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Vocabulary.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/WritableToken.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/CPPUtils.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/StringUtils.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CharStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CommonToken.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CommonToken.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ProxyErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Recognizer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Vocabulary.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/WritableToken.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/CPPUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/StringUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/CommonTokenFactory.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CharStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CommonToken.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CommonTokenFactory.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CommonTokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/WritableToken.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CharStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CommonToken.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CommonTokenFactory.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CommonTokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/WritableToken.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
 CMakeFiles/shell.dir/runtime/src/CommonTokenStream.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/BufferedTokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CommonTokenStream.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CommonTokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/BufferedTokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CommonTokenStream.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CommonTokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/ConsoleErrorListener.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/BaseErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ConsoleErrorListener.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ConsoleErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/BaseErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ConsoleErrorListener.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ConsoleErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/DefaultErrorStrategy.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/atn/ATNConfig.h
@@ -813,42 +813,42 @@ CMakeFiles/shell.dir/runtime/src/DefaultErrorStrategy.cpp.o
  ../runtime/src/misc/Interval.h
  ../runtime/src/support/Any.h
  ../runtime/src/support/BitSet.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorStrategy.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CommonToken.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/DefaultErrorStrategy.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/DefaultErrorStrategy.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/FailedPredicateException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/InputMismatchException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/NoViableAltException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Parser.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ParserRuleContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ProxyErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Recognizer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RuleContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Vocabulary.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/WritableToken.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATN.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNConfigSet.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNState.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ParserATNSimulator.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/PredictionMode.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/RuleTransition.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/SemanticContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/IntervalSet.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/CPPUtils.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/StringUtils.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTreeListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorStrategy.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CommonToken.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/DefaultErrorStrategy.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/DefaultErrorStrategy.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/FailedPredicateException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/InputMismatchException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/NoViableAltException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Parser.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ParserRuleContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ProxyErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Recognizer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RuleContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Vocabulary.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/WritableToken.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATN.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNConfigSet.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNState.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ParserATNSimulator.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/PredictionMode.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/RuleTransition.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/SemanticContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/IntervalSet.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/CPPUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/StringUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTree.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTreeListener.h
 CMakeFiles/shell.dir/runtime/src/DiagnosticErrorListener.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/ProxyErrorListener.h
@@ -863,29 +863,29 @@ CMakeFiles/shell.dir/runtime/src/DiagnosticErrorListener.cpp.o
  ../runtime/src/support/BitSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/BaseErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/DiagnosticErrorListener.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/DiagnosticErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Parser.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNConfig.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNConfigSet.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/PredictionContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/dfa/DFA.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTreeListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/BaseErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/DiagnosticErrorListener.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/DiagnosticErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Parser.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNConfig.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNConfigSet.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/PredictionContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/dfa/DFA.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTree.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTreeListener.h
 CMakeFiles/shell.dir/runtime/src/Exceptions.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/FailedPredicateException.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/RuleContext.h
@@ -901,64 +901,64 @@ CMakeFiles/shell.dir/runtime/src/FailedPredicateException.cpp.o
  ../runtime/src/support/BitSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/FailedPredicateException.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/FailedPredicateException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Parser.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ProxyErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Recognizer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATN.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNState.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ParserATNSimulator.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/PredicateTransition.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/PredictionMode.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/SemanticContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/CPPUtils.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTreeListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/FailedPredicateException.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/FailedPredicateException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Parser.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ProxyErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Recognizer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATN.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNState.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ParserATNSimulator.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/PredicateTransition.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/PredictionMode.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/SemanticContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/CPPUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTree.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTreeListener.h
 CMakeFiles/shell.dir/runtime/src/InputMismatchException.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/Any.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/InputMismatchException.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/InputMismatchException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Parser.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ProxyErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Recognizer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTreeListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/InputMismatchException.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/InputMismatchException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Parser.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ProxyErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Recognizer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTree.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTreeListener.h
 CMakeFiles/shell.dir/runtime/src/IntStream.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/InterpreterRuleContext.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/Any.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/InterpreterRuleContext.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/InterpreterRuleContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ParserRuleContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RuleContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/CPPUtils.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTree.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/InterpreterRuleContext.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/InterpreterRuleContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ParserRuleContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RuleContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/CPPUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTree.h
 CMakeFiles/shell.dir/runtime/src/Lexer.cpp.o
  ../runtime/src/RuleContext.h
  ../runtime/src/atn/ATN.h
@@ -972,29 +972,29 @@ CMakeFiles/shell.dir/runtime/src/Lexer.cpp.o
  ../runtime/src/support/Any.h
  ../runtime/src/support/BitSet.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CharStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CommonToken.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CommonTokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Lexer.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Lexer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/LexerNoViableAltException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ProxyErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Recognizer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/WritableToken.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LexerATNSimulator.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/CPPUtils.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/StringUtils.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CharStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CommonToken.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CommonTokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Lexer.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Lexer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/LexerNoViableAltException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ProxyErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Recognizer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/WritableToken.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LexerATNSimulator.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/CPPUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/StringUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/LexerInterpreter.cpp.o
  ../runtime/src/RuleContext.h
  ../runtime/src/antlr4-common.h
@@ -1014,25 +1014,25 @@ CMakeFiles/shell.dir/runtime/src/LexerInterpreter.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CharStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Lexer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/LexerInterpreter.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/LexerInterpreter.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ProxyErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Recognizer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Vocabulary.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNType.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/EmptyPredictionContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LexerATNSimulator.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/PredictionContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/dfa/DFA.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CharStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Lexer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/LexerInterpreter.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/LexerInterpreter.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ProxyErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Recognizer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Vocabulary.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNType.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/EmptyPredictionContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LexerATNSimulator.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/PredictionContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/dfa/DFA.h
 CMakeFiles/shell.dir/runtime/src/LexerNoViableAltException.cpp.o
  ../runtime/src/RuleContext.h
  ../runtime/src/antlr4-common.h
@@ -1045,37 +1045,37 @@ CMakeFiles/shell.dir/runtime/src/LexerNoViableAltException.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CharStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Lexer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/LexerNoViableAltException.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/LexerNoViableAltException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ProxyErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Recognizer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNConfigSet.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/CPPUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CharStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Lexer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/LexerNoViableAltException.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/LexerNoViableAltException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ProxyErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Recognizer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNConfigSet.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/CPPUtils.h
 CMakeFiles/shell.dir/runtime/src/ListTokenSource.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CharStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CommonToken.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CommonTokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ListTokenSource.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ListTokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/WritableToken.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CharStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CommonToken.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CommonTokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ListTokenSource.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ListTokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/WritableToken.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/NoViableAltException.cpp.o
  ../runtime/src/RuleContext.h
  ../runtime/src/antlr4-common.h
@@ -1087,23 +1087,23 @@ CMakeFiles/shell.dir/runtime/src/NoViableAltException.cpp.o
  ../runtime/src/support/BitSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/NoViableAltException.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/NoViableAltException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Parser.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ProxyErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Recognizer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNConfigSet.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTreeListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/NoViableAltException.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/NoViableAltException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Parser.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ProxyErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Recognizer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNConfigSet.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTree.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTreeListener.h
 CMakeFiles/shell.dir/runtime/src/Parser.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/atn/ATNConfig.h
@@ -1128,42 +1128,42 @@ CMakeFiles/shell.dir/runtime/src/Parser.cpp.o
  ../runtime/src/tree/ErrorNode.h
  ../runtime/src/tree/ParseTree.h
  ../runtime/src/tree/TerminalNodeImpl.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorStrategy.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CharStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/DefaultErrorStrategy.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Lexer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Parser.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Parser.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ParserRuleContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ProxyErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Recognizer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RuleContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATN.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNDeserializationOptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNDeserializer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ParseInfo.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ParserATNSimulator.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/PredictionMode.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ProfilingATNSimulator.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/RuleStartState.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/RuleTransition.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/SemanticContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/dfa/DFA.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/IntervalSet.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/CPPUtils.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ErrorNodeImpl.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTreeListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/TerminalNode.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/pattern/ParseTreePattern.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/pattern/ParseTreePatternMatcher.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorStrategy.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CharStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/DefaultErrorStrategy.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Lexer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Parser.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Parser.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ParserRuleContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ProxyErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Recognizer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RuleContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATN.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNDeserializationOptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNDeserializer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ParseInfo.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ParserATNSimulator.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/PredictionMode.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ProfilingATNSimulator.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/RuleStartState.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/RuleTransition.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/SemanticContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/dfa/DFA.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/IntervalSet.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/CPPUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ErrorNodeImpl.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTreeListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/TerminalNode.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/pattern/ParseTreePattern.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/pattern/ParseTreePatternMatcher.h
 CMakeFiles/shell.dir/runtime/src/ParserInterpreter.cpp.o
  ../runtime/src/RuleContext.h
  ../runtime/src/atn/ATNConfig.h
@@ -1178,85 +1178,85 @@ CMakeFiles/shell.dir/runtime/src/ParserInterpreter.cpp.o
  ../runtime/src/support/Any.h
  ../runtime/src/tree/ParseTree.h
  ../runtime/src/tree/TerminalNode.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorStrategy.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CharStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CommonToken.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/FailedPredicateException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/InputMismatchException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/InterpreterRuleContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Lexer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Parser.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ParserInterpreter.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ParserInterpreter.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ParserRuleContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ProxyErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Recognizer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Vocabulary.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/WritableToken.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATN.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ActionTransition.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/AtomTransition.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LoopEndState.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ParserATNSimulator.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/PrecedencePredicateTransition.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/PredicateTransition.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/PredictionMode.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/RuleStartState.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/RuleStopState.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/RuleTransition.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/SemanticContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/StarLoopEntryState.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/dfa/DFA.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/BitSet.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/CPPUtils.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ErrorNode.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTreeListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorStrategy.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CharStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CommonToken.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/FailedPredicateException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/InputMismatchException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/InterpreterRuleContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Lexer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Parser.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ParserInterpreter.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ParserInterpreter.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ParserRuleContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ProxyErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Recognizer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Vocabulary.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/WritableToken.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATN.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ActionTransition.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/AtomTransition.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LoopEndState.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ParserATNSimulator.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/PrecedencePredicateTransition.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/PredicateTransition.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/PredictionMode.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/RuleStartState.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/RuleStopState.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/RuleTransition.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/SemanticContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/StarLoopEntryState.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/dfa/DFA.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/BitSet.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/CPPUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ErrorNode.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTreeListener.h
 CMakeFiles/shell.dir/runtime/src/ParserRuleContext.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/Any.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Parser.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ParserRuleContext.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ParserRuleContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ProxyErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Recognizer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RuleContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/CPPUtils.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ErrorNode.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTreeListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/TerminalNode.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Parser.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ParserRuleContext.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ParserRuleContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ProxyErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Recognizer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RuleContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/CPPUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ErrorNode.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTreeListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/TerminalNode.h
 CMakeFiles/shell.dir/runtime/src/ProxyErrorListener.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ProxyErrorListener.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ProxyErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ProxyErrorListener.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ProxyErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/RecognitionException.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/RuleContext.h
@@ -1266,16 +1266,16 @@ CMakeFiles/shell.dir/runtime/src/RecognitionException.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ParserRuleContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ProxyErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Recognizer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATN.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/IntervalSet.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/CPPUtils.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/StringUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ParserRuleContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ProxyErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Recognizer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATN.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/IntervalSet.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/CPPUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/StringUtils.h
 CMakeFiles/shell.dir/runtime/src/Recognizer.cpp.o
  ../runtime/src/RuleContext.h
  ../runtime/src/antlr4-common.h
@@ -1287,21 +1287,21 @@ CMakeFiles/shell.dir/runtime/src/Recognizer.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ANTLRErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/BaseErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ConsoleErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ProxyErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RecognitionException.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Recognizer.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Recognizer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Vocabulary.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATN.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNSimulator.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/CPPUtils.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/StringUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ANTLRErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/BaseErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ConsoleErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ProxyErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RecognitionException.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Recognizer.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Recognizer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Vocabulary.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATN.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNSimulator.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/CPPUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/StringUtils.h
 CMakeFiles/shell.dir/runtime/src/RuleContext.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -1316,20 +1316,20 @@ CMakeFiles/shell.dir/runtime/src/RuleContext.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/TerminalNode.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Parser.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RuleContext.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RuleContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATN.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNState.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTreeListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTreeVisitor.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/Trees.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Parser.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RuleContext.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RuleContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATN.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNState.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTree.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTreeListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTreeVisitor.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/Trees.h
 CMakeFiles/shell.dir/runtime/src/RuleContextWithAltNum.cpp.o
  ../runtime/src/RuleContext.h
  ../runtime/src/antlr4-common.h
@@ -1337,94 +1337,94 @@ CMakeFiles/shell.dir/runtime/src/RuleContextWithAltNum.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/ParserRuleContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RuleContextWithAltNum.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RuleContextWithAltNum.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATN.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/CPPUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/ParserRuleContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RuleContextWithAltNum.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RuleContextWithAltNum.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATN.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/CPPUtils.h
 CMakeFiles/shell.dir/runtime/src/RuntimeMetaData.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RuntimeMetaData.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RuntimeMetaData.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RuntimeMetaData.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RuntimeMetaData.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/Token.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/TokenSource.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/TokenStream.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenStream.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenStream.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/TokenStreamRewriter.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenStreamRewriter.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenStreamRewriter.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenStreamRewriter.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenStreamRewriter.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/UnbufferedCharStream.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/CharStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/UnbufferedCharStream.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/UnbufferedCharStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/StringUtils.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/CharStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/UnbufferedCharStream.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/UnbufferedCharStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/StringUtils.h
 CMakeFiles/shell.dir/runtime/src/UnbufferedTokenStream.cpp.o
  ../runtime/src/support/Any.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Exceptions.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/RuleContext.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenFactory.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenSource.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/TokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/UnbufferedTokenStream.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/UnbufferedTokenStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/WritableToken.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Arrays.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTree.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Exceptions.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/RuleContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenFactory.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenSource.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/TokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/UnbufferedTokenStream.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/UnbufferedTokenStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/WritableToken.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Arrays.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTree.h
 CMakeFiles/shell.dir/runtime/src/Vocabulary.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Vocabulary.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Vocabulary.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Vocabulary.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Vocabulary.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/WritableToken.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/IntStream.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/Token.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/WritableToken.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/WritableToken.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/antlr4-common.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Declarations.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/IntStream.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/Token.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/WritableToken.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/WritableToken.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/antlr4-common.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Declarations.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/atn/ATN.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -1452,7 +1452,7 @@ CMakeFiles/shell.dir/runtime/src/atn/ATN.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATN.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATN.cpp
 CMakeFiles/shell.dir/runtime/src/atn/ATNConfig.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -1473,8 +1473,8 @@ CMakeFiles/shell.dir/runtime/src/atn/ATNConfig.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNConfig.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/SemanticContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNConfig.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/SemanticContext.h
 CMakeFiles/shell.dir/runtime/src/atn/ATNConfigSet.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -1499,13 +1499,13 @@ CMakeFiles/shell.dir/runtime/src/atn/ATNConfigSet.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNConfigSet.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNConfigSet.cpp
 CMakeFiles/shell.dir/runtime/src/atn/ATNDeserializationOptions.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/atn/ATNDeserializationOptions.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNDeserializationOptions.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNDeserializationOptions.cpp
 CMakeFiles/shell.dir/runtime/src/atn/ATNDeserializer.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -1566,7 +1566,7 @@ CMakeFiles/shell.dir/runtime/src/atn/ATNDeserializer.cpp.o
  ../runtime/src/support/StringUtils.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNDeserializer.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNDeserializer.cpp
 CMakeFiles/shell.dir/runtime/src/atn/ATNSerializer.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -1613,7 +1613,7 @@ CMakeFiles/shell.dir/runtime/src/atn/ATNSerializer.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNSerializer.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNSerializer.cpp
 CMakeFiles/shell.dir/runtime/src/atn/ATNSimulator.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -1643,7 +1643,7 @@ CMakeFiles/shell.dir/runtime/src/atn/ATNSimulator.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNSimulator.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNSimulator.cpp
 CMakeFiles/shell.dir/runtime/src/atn/ATNState.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/RuleContext.h
@@ -1658,7 +1658,7 @@ CMakeFiles/shell.dir/runtime/src/atn/ATNState.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ATNState.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ATNState.cpp
 CMakeFiles/shell.dir/runtime/src/atn/AbstractPredicateTransition.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -1668,7 +1668,7 @@ CMakeFiles/shell.dir/runtime/src/atn/AbstractPredicateTransition.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/AbstractPredicateTransition.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/AbstractPredicateTransition.cpp
 CMakeFiles/shell.dir/runtime/src/atn/ActionTransition.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -1678,7 +1678,7 @@ CMakeFiles/shell.dir/runtime/src/atn/ActionTransition.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ActionTransition.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ActionTransition.cpp
 CMakeFiles/shell.dir/runtime/src/atn/AmbiguityInfo.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/atn/AmbiguityInfo.h
@@ -1686,7 +1686,7 @@ CMakeFiles/shell.dir/runtime/src/atn/AmbiguityInfo.cpp.o
  ../runtime/src/support/BitSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/AmbiguityInfo.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/AmbiguityInfo.cpp
 CMakeFiles/shell.dir/runtime/src/atn/ArrayPredictionContext.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -1707,7 +1707,7 @@ CMakeFiles/shell.dir/runtime/src/atn/ArrayPredictionContext.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ArrayPredictionContext.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ArrayPredictionContext.cpp
 CMakeFiles/shell.dir/runtime/src/atn/AtomTransition.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -1717,7 +1717,7 @@ CMakeFiles/shell.dir/runtime/src/atn/AtomTransition.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/AtomTransition.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/AtomTransition.cpp
 CMakeFiles/shell.dir/runtime/src/atn/BasicBlockStartState.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -1729,7 +1729,7 @@ CMakeFiles/shell.dir/runtime/src/atn/BasicBlockStartState.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/BasicBlockStartState.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/BasicBlockStartState.cpp
 CMakeFiles/shell.dir/runtime/src/atn/BasicState.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -1739,7 +1739,7 @@ CMakeFiles/shell.dir/runtime/src/atn/BasicState.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/BasicState.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/BasicState.cpp
 CMakeFiles/shell.dir/runtime/src/atn/BlockEndState.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -1749,7 +1749,7 @@ CMakeFiles/shell.dir/runtime/src/atn/BlockEndState.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/BlockEndState.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/BlockEndState.cpp
 CMakeFiles/shell.dir/runtime/src/atn/BlockStartState.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -1759,21 +1759,21 @@ CMakeFiles/shell.dir/runtime/src/atn/BlockStartState.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/BlockStartState.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/BlockStartState.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/BlockStartState.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/BlockStartState.h
 CMakeFiles/shell.dir/runtime/src/atn/ContextSensitivityInfo.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/atn/ContextSensitivityInfo.h
  ../runtime/src/atn/DecisionEventInfo.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ContextSensitivityInfo.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ContextSensitivityInfo.cpp
 CMakeFiles/shell.dir/runtime/src/atn/DecisionEventInfo.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/atn/DecisionEventInfo.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/DecisionEventInfo.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/DecisionEventInfo.cpp
 CMakeFiles/shell.dir/runtime/src/atn/DecisionInfo.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/atn/AmbiguityInfo.h
@@ -1786,7 +1786,7 @@ CMakeFiles/shell.dir/runtime/src/atn/DecisionInfo.cpp.o
  ../runtime/src/support/BitSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/DecisionInfo.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/DecisionInfo.cpp
 CMakeFiles/shell.dir/runtime/src/atn/DecisionState.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -1796,7 +1796,7 @@ CMakeFiles/shell.dir/runtime/src/atn/DecisionState.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/DecisionState.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/DecisionState.cpp
 CMakeFiles/shell.dir/runtime/src/atn/EmptyPredictionContext.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -1816,7 +1816,7 @@ CMakeFiles/shell.dir/runtime/src/atn/EmptyPredictionContext.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/EmptyPredictionContext.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/EmptyPredictionContext.cpp
 CMakeFiles/shell.dir/runtime/src/atn/EpsilonTransition.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -1826,7 +1826,7 @@ CMakeFiles/shell.dir/runtime/src/atn/EpsilonTransition.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/EpsilonTransition.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/EpsilonTransition.cpp
 CMakeFiles/shell.dir/runtime/src/atn/ErrorInfo.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -1848,7 +1848,7 @@ CMakeFiles/shell.dir/runtime/src/atn/ErrorInfo.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ErrorInfo.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ErrorInfo.cpp
 CMakeFiles/shell.dir/runtime/src/atn/LL1Analyzer.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -1881,7 +1881,7 @@ CMakeFiles/shell.dir/runtime/src/atn/LL1Analyzer.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LL1Analyzer.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LL1Analyzer.cpp
 CMakeFiles/shell.dir/runtime/src/atn/LexerATNConfig.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/CharStream.h
@@ -1909,8 +1909,8 @@ CMakeFiles/shell.dir/runtime/src/atn/LexerATNConfig.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LexerATNConfig.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/SemanticContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LexerATNConfig.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/SemanticContext.h
 CMakeFiles/shell.dir/runtime/src/atn/LexerATNSimulator.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/CharStream.h
@@ -1959,14 +1959,14 @@ CMakeFiles/shell.dir/runtime/src/atn/LexerATNSimulator.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LexerATNSimulator.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LexerATNSimulator.cpp
 CMakeFiles/shell.dir/runtime/src/atn/LexerAction.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/atn/LexerActionType.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LexerAction.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LexerAction.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LexerAction.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LexerAction.h
 CMakeFiles/shell.dir/runtime/src/atn/LexerActionExecutor.cpp.o
  ../runtime/src/CharStream.h
  ../runtime/src/IntStream.h
@@ -1984,7 +1984,7 @@ CMakeFiles/shell.dir/runtime/src/atn/LexerActionExecutor.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LexerActionExecutor.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LexerActionExecutor.cpp
 CMakeFiles/shell.dir/runtime/src/atn/LexerChannelAction.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/CharStream.h
@@ -2005,7 +2005,7 @@ CMakeFiles/shell.dir/runtime/src/atn/LexerChannelAction.cpp.o
  ../runtime/src/misc/MurmurHash.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LexerChannelAction.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LexerChannelAction.cpp
 CMakeFiles/shell.dir/runtime/src/atn/LexerCustomAction.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/CharStream.h
@@ -2027,7 +2027,7 @@ CMakeFiles/shell.dir/runtime/src/atn/LexerCustomAction.cpp.o
  ../runtime/src/support/CPPUtils.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LexerCustomAction.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LexerCustomAction.cpp
 CMakeFiles/shell.dir/runtime/src/atn/LexerIndexedCustomAction.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/CharStream.h
@@ -2052,7 +2052,7 @@ CMakeFiles/shell.dir/runtime/src/atn/LexerIndexedCustomAction.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LexerIndexedCustomAction.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LexerIndexedCustomAction.cpp
 CMakeFiles/shell.dir/runtime/src/atn/LexerModeAction.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/CharStream.h
@@ -2073,7 +2073,7 @@ CMakeFiles/shell.dir/runtime/src/atn/LexerModeAction.cpp.o
  ../runtime/src/misc/MurmurHash.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LexerModeAction.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LexerModeAction.cpp
 CMakeFiles/shell.dir/runtime/src/atn/LexerMoreAction.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/CharStream.h
@@ -2094,7 +2094,7 @@ CMakeFiles/shell.dir/runtime/src/atn/LexerMoreAction.cpp.o
  ../runtime/src/misc/MurmurHash.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LexerMoreAction.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LexerMoreAction.cpp
 CMakeFiles/shell.dir/runtime/src/atn/LexerPopModeAction.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/CharStream.h
@@ -2115,7 +2115,7 @@ CMakeFiles/shell.dir/runtime/src/atn/LexerPopModeAction.cpp.o
  ../runtime/src/misc/MurmurHash.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LexerPopModeAction.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LexerPopModeAction.cpp
 CMakeFiles/shell.dir/runtime/src/atn/LexerPushModeAction.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/CharStream.h
@@ -2136,7 +2136,7 @@ CMakeFiles/shell.dir/runtime/src/atn/LexerPushModeAction.cpp.o
  ../runtime/src/misc/MurmurHash.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LexerPushModeAction.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LexerPushModeAction.cpp
 CMakeFiles/shell.dir/runtime/src/atn/LexerSkipAction.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/CharStream.h
@@ -2157,7 +2157,7 @@ CMakeFiles/shell.dir/runtime/src/atn/LexerSkipAction.cpp.o
  ../runtime/src/misc/MurmurHash.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LexerSkipAction.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LexerSkipAction.cpp
 CMakeFiles/shell.dir/runtime/src/atn/LexerTypeAction.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/CharStream.h
@@ -2178,14 +2178,14 @@ CMakeFiles/shell.dir/runtime/src/atn/LexerTypeAction.cpp.o
  ../runtime/src/misc/MurmurHash.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LexerTypeAction.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LexerTypeAction.cpp
 CMakeFiles/shell.dir/runtime/src/atn/LookaheadEventInfo.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/atn/DecisionEventInfo.h
  ../runtime/src/atn/LookaheadEventInfo.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LookaheadEventInfo.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LookaheadEventInfo.cpp
 CMakeFiles/shell.dir/runtime/src/atn/LoopEndState.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -2195,7 +2195,7 @@ CMakeFiles/shell.dir/runtime/src/atn/LoopEndState.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/LoopEndState.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/LoopEndState.cpp
 CMakeFiles/shell.dir/runtime/src/atn/NotSetTransition.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -2207,7 +2207,7 @@ CMakeFiles/shell.dir/runtime/src/atn/NotSetTransition.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/NotSetTransition.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/NotSetTransition.cpp
 CMakeFiles/shell.dir/runtime/src/atn/OrderedATNConfigSet.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -2229,7 +2229,7 @@ CMakeFiles/shell.dir/runtime/src/atn/OrderedATNConfigSet.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/OrderedATNConfigSet.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/OrderedATNConfigSet.cpp
 CMakeFiles/shell.dir/runtime/src/atn/ParseInfo.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -2264,7 +2264,7 @@ CMakeFiles/shell.dir/runtime/src/atn/ParseInfo.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ParseInfo.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ParseInfo.cpp
 CMakeFiles/shell.dir/runtime/src/atn/ParserATNSimulator.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/BufferedTokenStream.h
@@ -2322,7 +2322,7 @@ CMakeFiles/shell.dir/runtime/src/atn/ParserATNSimulator.cpp.o
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
  ../runtime/src/tree/ParseTreeListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ParserATNSimulator.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ParserATNSimulator.cpp
 CMakeFiles/shell.dir/runtime/src/atn/PlusBlockStartState.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -2334,7 +2334,7 @@ CMakeFiles/shell.dir/runtime/src/atn/PlusBlockStartState.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/PlusBlockStartState.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/PlusBlockStartState.cpp
 CMakeFiles/shell.dir/runtime/src/atn/PlusLoopbackState.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -2345,7 +2345,7 @@ CMakeFiles/shell.dir/runtime/src/atn/PlusLoopbackState.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/PlusLoopbackState.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/PlusLoopbackState.cpp
 CMakeFiles/shell.dir/runtime/src/atn/PrecedencePredicateTransition.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -2362,7 +2362,7 @@ CMakeFiles/shell.dir/runtime/src/atn/PrecedencePredicateTransition.cpp.o
  ../runtime/src/support/CPPUtils.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/PrecedencePredicateTransition.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/PrecedencePredicateTransition.cpp
 CMakeFiles/shell.dir/runtime/src/atn/PredicateEvalInfo.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -2375,8 +2375,8 @@ CMakeFiles/shell.dir/runtime/src/atn/PredicateEvalInfo.cpp.o
  ../runtime/src/support/CPPUtils.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/PredicateEvalInfo.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/SemanticContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/PredicateEvalInfo.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/SemanticContext.h
 CMakeFiles/shell.dir/runtime/src/atn/PredicateTransition.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -2393,7 +2393,7 @@ CMakeFiles/shell.dir/runtime/src/atn/PredicateTransition.cpp.o
  ../runtime/src/support/CPPUtils.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/PredicateTransition.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/PredicateTransition.cpp
 CMakeFiles/shell.dir/runtime/src/atn/PredictionContext.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -2420,7 +2420,7 @@ CMakeFiles/shell.dir/runtime/src/atn/PredictionContext.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/PredictionContext.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/PredictionContext.cpp
 CMakeFiles/shell.dir/runtime/src/atn/PredictionMode.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -2444,9 +2444,9 @@ CMakeFiles/shell.dir/runtime/src/atn/PredictionMode.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/PredictionMode.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/PredictionMode.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/SemanticContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/PredictionMode.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/PredictionMode.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/SemanticContext.h
 CMakeFiles/shell.dir/runtime/src/atn/ProfilingATNSimulator.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -2487,7 +2487,7 @@ CMakeFiles/shell.dir/runtime/src/atn/ProfilingATNSimulator.cpp.o
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
  ../runtime/src/tree/ParseTreeListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/ProfilingATNSimulator.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/ProfilingATNSimulator.cpp
 CMakeFiles/shell.dir/runtime/src/atn/RangeTransition.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -2497,7 +2497,7 @@ CMakeFiles/shell.dir/runtime/src/atn/RangeTransition.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/RangeTransition.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/RangeTransition.cpp
 CMakeFiles/shell.dir/runtime/src/atn/RuleStartState.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -2507,7 +2507,7 @@ CMakeFiles/shell.dir/runtime/src/atn/RuleStartState.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/RuleStartState.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/RuleStartState.cpp
 CMakeFiles/shell.dir/runtime/src/atn/RuleStopState.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -2517,7 +2517,7 @@ CMakeFiles/shell.dir/runtime/src/atn/RuleStopState.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/RuleStopState.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/RuleStopState.cpp
 CMakeFiles/shell.dir/runtime/src/atn/RuleTransition.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -2529,7 +2529,7 @@ CMakeFiles/shell.dir/runtime/src/atn/RuleTransition.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/RuleTransition.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/RuleTransition.cpp
 CMakeFiles/shell.dir/runtime/src/atn/SemanticContext.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -2542,8 +2542,8 @@ CMakeFiles/shell.dir/runtime/src/atn/SemanticContext.cpp.o
  ../runtime/src/support/CPPUtils.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/SemanticContext.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/SemanticContext.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/SemanticContext.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/SemanticContext.h
 CMakeFiles/shell.dir/runtime/src/atn/SetTransition.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/IntStream.h
@@ -2555,7 +2555,7 @@ CMakeFiles/shell.dir/runtime/src/atn/SetTransition.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/SetTransition.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/SetTransition.cpp
 CMakeFiles/shell.dir/runtime/src/atn/SingletonPredictionContext.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -2575,7 +2575,7 @@ CMakeFiles/shell.dir/runtime/src/atn/SingletonPredictionContext.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/SingletonPredictionContext.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/SingletonPredictionContext.cpp
 CMakeFiles/shell.dir/runtime/src/atn/StarBlockStartState.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -2587,7 +2587,7 @@ CMakeFiles/shell.dir/runtime/src/atn/StarBlockStartState.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/StarBlockStartState.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/StarBlockStartState.cpp
 CMakeFiles/shell.dir/runtime/src/atn/StarLoopEntryState.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -2598,7 +2598,7 @@ CMakeFiles/shell.dir/runtime/src/atn/StarLoopEntryState.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/StarLoopEntryState.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/StarLoopEntryState.cpp
 CMakeFiles/shell.dir/runtime/src/atn/StarLoopbackState.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -2611,7 +2611,7 @@ CMakeFiles/shell.dir/runtime/src/atn/StarLoopbackState.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/StarLoopbackState.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/StarLoopbackState.cpp
 CMakeFiles/shell.dir/runtime/src/atn/TokensStartState.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -2622,7 +2622,7 @@ CMakeFiles/shell.dir/runtime/src/atn/TokensStartState.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/TokensStartState.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/TokensStartState.cpp
 CMakeFiles/shell.dir/runtime/src/atn/Transition.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -2632,7 +2632,7 @@ CMakeFiles/shell.dir/runtime/src/atn/Transition.cpp.o
  ../runtime/src/support/Arrays.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/Transition.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/Transition.cpp
 CMakeFiles/shell.dir/runtime/src/atn/WildcardTransition.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -2643,7 +2643,7 @@ CMakeFiles/shell.dir/runtime/src/atn/WildcardTransition.cpp.o
  ../runtime/src/misc/IntervalSet.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/atn/WildcardTransition.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/atn/WildcardTransition.cpp
 CMakeFiles/shell.dir/runtime/src/dfa/DFA.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -2671,7 +2671,7 @@ CMakeFiles/shell.dir/runtime/src/dfa/DFA.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/dfa/DFA.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/dfa/DFA.cpp
 CMakeFiles/shell.dir/runtime/src/dfa/DFASerializer.cpp.o
  ../runtime/src/Vocabulary.h
  ../runtime/src/antlr4-common.h
@@ -2680,7 +2680,7 @@ CMakeFiles/shell.dir/runtime/src/dfa/DFASerializer.cpp.o
  ../runtime/src/dfa/DFAState.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/dfa/DFASerializer.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/dfa/DFASerializer.cpp
 CMakeFiles/shell.dir/runtime/src/dfa/DFAState.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -2705,7 +2705,7 @@ CMakeFiles/shell.dir/runtime/src/dfa/DFAState.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/dfa/DFAState.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/dfa/DFAState.cpp
 CMakeFiles/shell.dir/runtime/src/dfa/LexerDFASerializer.cpp.o
  ../runtime/src/Vocabulary.h
  ../runtime/src/antlr4-common.h
@@ -2713,7 +2713,7 @@ CMakeFiles/shell.dir/runtime/src/dfa/LexerDFASerializer.cpp.o
  ../runtime/src/dfa/LexerDFASerializer.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/dfa/LexerDFASerializer.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/dfa/LexerDFASerializer.cpp
 CMakeFiles/shell.dir/runtime/src/misc/InterpreterDataReader.cpp.o
  ../runtime/src/RuleContext.h
  ../runtime/src/Vocabulary.h
@@ -2728,13 +2728,13 @@ CMakeFiles/shell.dir/runtime/src/misc/InterpreterDataReader.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/InterpreterDataReader.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/InterpreterDataReader.cpp
 CMakeFiles/shell.dir/runtime/src/misc/Interval.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/misc/Interval.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Interval.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Interval.cpp
 CMakeFiles/shell.dir/runtime/src/misc/IntervalSet.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/CharStream.h
@@ -2754,25 +2754,25 @@ CMakeFiles/shell.dir/runtime/src/misc/IntervalSet.cpp.o
  ../runtime/src/misc/MurmurHash.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/IntervalSet.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/IntervalSet.cpp
 CMakeFiles/shell.dir/runtime/src/misc/MurmurHash.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/misc/MurmurHash.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/MurmurHash.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/MurmurHash.cpp
 CMakeFiles/shell.dir/runtime/src/misc/Predicate.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/misc/Predicate.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/misc/Predicate.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/misc/Predicate.cpp
 CMakeFiles/shell.dir/runtime/src/support/Any.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Any.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Any.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Any.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Any.h
 CMakeFiles/shell.dir/runtime/src/support/Arrays.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -2781,22 +2781,22 @@ CMakeFiles/shell.dir/runtime/src/support/Arrays.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/Arrays.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/Arrays.cpp
 CMakeFiles/shell.dir/runtime/src/support/CPPUtils.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/CPPUtils.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/CPPUtils.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/CPPUtils.cpp
 CMakeFiles/shell.dir/runtime/src/support/StringUtils.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/StringUtils.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/StringUtils.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/StringUtils.cpp
 CMakeFiles/shell.dir/runtime/src/support/guid.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/support/guid.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/support/guid.h
 CMakeFiles/shell.dir/runtime/src/tree/ErrorNode.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/Any.h
@@ -2805,7 +2805,7 @@ CMakeFiles/shell.dir/runtime/src/tree/ErrorNode.cpp.o
  ../runtime/src/tree/ErrorNode.h
  ../runtime/src/tree/ParseTree.h
  ../runtime/src/tree/TerminalNode.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ErrorNode.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ErrorNode.cpp
 CMakeFiles/shell.dir/runtime/src/tree/ErrorNodeImpl.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -2819,7 +2819,7 @@ CMakeFiles/shell.dir/runtime/src/tree/ErrorNodeImpl.cpp.o
  ../runtime/src/tree/ParseTreeVisitor.h
  ../runtime/src/tree/TerminalNode.h
  ../runtime/src/tree/TerminalNodeImpl.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ErrorNodeImpl.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ErrorNodeImpl.cpp
 CMakeFiles/shell.dir/runtime/src/tree/IterativeParseTreeWalker.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/Any.h
@@ -2831,28 +2831,28 @@ CMakeFiles/shell.dir/runtime/src/tree/IterativeParseTreeWalker.cpp.o
  ../runtime/src/tree/ParseTreeListener.h
  ../runtime/src/tree/ParseTreeWalker.h
  ../runtime/src/tree/TerminalNode.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/IterativeParseTreeWalker.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/IterativeParseTreeWalker.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/IterativeParseTreeWalker.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/IterativeParseTreeWalker.h
 CMakeFiles/shell.dir/runtime/src/tree/ParseTree.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/Any.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTree.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTree.cpp
 CMakeFiles/shell.dir/runtime/src/tree/ParseTreeListener.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTreeListener.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTreeListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTreeListener.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTreeListener.h
 CMakeFiles/shell.dir/runtime/src/tree/ParseTreeVisitor.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/Any.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTreeVisitor.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTreeVisitor.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTreeVisitor.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTreeVisitor.h
 CMakeFiles/shell.dir/runtime/src/tree/ParseTreeWalker.cpp.o
  ../runtime/src/ParserRuleContext.h
  ../runtime/src/RuleContext.h
@@ -2867,7 +2867,7 @@ CMakeFiles/shell.dir/runtime/src/tree/ParseTreeWalker.cpp.o
  ../runtime/src/tree/ParseTreeListener.h
  ../runtime/src/tree/ParseTreeWalker.h
  ../runtime/src/tree/TerminalNode.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/ParseTreeWalker.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/ParseTreeWalker.cpp
 CMakeFiles/shell.dir/runtime/src/tree/TerminalNode.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/Any.h
@@ -2875,7 +2875,7 @@ CMakeFiles/shell.dir/runtime/src/tree/TerminalNode.cpp.o
  ../runtime/src/support/guid.h
  ../runtime/src/tree/ParseTree.h
  ../runtime/src/tree/TerminalNode.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/TerminalNode.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/TerminalNode.cpp
 CMakeFiles/shell.dir/runtime/src/tree/TerminalNodeImpl.cpp.o
  ../runtime/src/IntStream.h
  ../runtime/src/RuleContext.h
@@ -2889,7 +2889,7 @@ CMakeFiles/shell.dir/runtime/src/tree/TerminalNodeImpl.cpp.o
  ../runtime/src/tree/ParseTreeVisitor.h
  ../runtime/src/tree/TerminalNode.h
  ../runtime/src/tree/TerminalNodeImpl.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/TerminalNodeImpl.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/TerminalNodeImpl.cpp
 CMakeFiles/shell.dir/runtime/src/tree/Trees.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/CommonToken.h
@@ -2920,20 +2920,20 @@ CMakeFiles/shell.dir/runtime/src/tree/Trees.cpp.o
  ../runtime/src/tree/TerminalNode.h
  ../runtime/src/tree/TerminalNodeImpl.h
  ../runtime/src/tree/Trees.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/Trees.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/Trees.cpp
 CMakeFiles/shell.dir/runtime/src/tree/pattern/Chunk.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/pattern/Chunk.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/pattern/Chunk.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/pattern/Chunk.cpp
 CMakeFiles/shell.dir/runtime/src/tree/pattern/ParseTreeMatch.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/pattern/ParseTreeMatch.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/pattern/ParseTreeMatch.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/pattern/ParseTreeMatch.cpp
 CMakeFiles/shell.dir/runtime/src/tree/pattern/ParseTreePattern.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -2946,7 +2946,7 @@ CMakeFiles/shell.dir/runtime/src/tree/pattern/ParseTreePattern.cpp.o
  ../runtime/src/tree/pattern/ParseTreePatternMatcher.h
  ../runtime/src/tree/xpath/XPath.h
  ../runtime/src/tree/xpath/XPathElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/pattern/ParseTreePattern.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/pattern/ParseTreePattern.cpp
 CMakeFiles/shell.dir/runtime/src/tree/pattern/ParseTreePatternMatcher.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/ANTLRErrorStrategy.h
@@ -2999,7 +2999,7 @@ CMakeFiles/shell.dir/runtime/src/tree/pattern/ParseTreePatternMatcher.cpp.o
  ../runtime/src/tree/pattern/TagChunk.h
  ../runtime/src/tree/pattern/TextChunk.h
  ../runtime/src/tree/pattern/TokenTagToken.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/pattern/ParseTreePatternMatcher.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/pattern/ParseTreePatternMatcher.cpp
 CMakeFiles/shell.dir/runtime/src/tree/pattern/RuleTagToken.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/IntStream.h
@@ -3008,7 +3008,7 @@ CMakeFiles/shell.dir/runtime/src/tree/pattern/RuleTagToken.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/pattern/RuleTagToken.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/pattern/RuleTagToken.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/pattern/RuleTagToken.cpp
 CMakeFiles/shell.dir/runtime/src/tree/pattern/TagChunk.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -3016,7 +3016,7 @@ CMakeFiles/shell.dir/runtime/src/tree/pattern/TagChunk.cpp.o
  ../runtime/src/support/guid.h
  ../runtime/src/tree/pattern/Chunk.h
  ../runtime/src/tree/pattern/TagChunk.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/pattern/TagChunk.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/pattern/TagChunk.cpp
 CMakeFiles/shell.dir/runtime/src/tree/pattern/TextChunk.cpp.o
  ../runtime/src/Exceptions.h
  ../runtime/src/antlr4-common.h
@@ -3024,7 +3024,7 @@ CMakeFiles/shell.dir/runtime/src/tree/pattern/TextChunk.cpp.o
  ../runtime/src/support/guid.h
  ../runtime/src/tree/pattern/Chunk.h
  ../runtime/src/tree/pattern/TextChunk.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/pattern/TextChunk.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/pattern/TextChunk.cpp
 CMakeFiles/shell.dir/runtime/src/tree/pattern/TokenTagToken.cpp.o
  ../runtime/src/CommonToken.h
  ../runtime/src/IntStream.h
@@ -3034,7 +3034,7 @@ CMakeFiles/shell.dir/runtime/src/tree/pattern/TokenTagToken.cpp.o
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
  ../runtime/src/tree/pattern/TokenTagToken.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/pattern/TokenTagToken.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/pattern/TokenTagToken.cpp
 CMakeFiles/shell.dir/runtime/src/tree/xpath/XPath.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/ANTLRErrorStrategy.h
@@ -3192,24 +3192,24 @@ CMakeFiles/shell.dir/runtime/src/tree/xpath/XPath.cpp.o
  ../runtime/src/tree/xpath/XPathTokenElement.h
  ../runtime/src/tree/xpath/XPathWildcardAnywhereElement.h
  ../runtime/src/tree/xpath/XPathWildcardElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPath.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPath.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathLexer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathLexerErrorListener.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathRuleAnywhereElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathRuleElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathTokenAnywhereElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathTokenElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathWildcardAnywhereElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathWildcardElement.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPath.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPath.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathElement.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathLexer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathLexerErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathRuleAnywhereElement.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathRuleElement.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathTokenAnywhereElement.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathTokenElement.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathWildcardAnywhereElement.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathWildcardElement.h
 CMakeFiles/shell.dir/runtime/src/tree/xpath/XPathElement.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/CPPUtils.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathElement.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathElement.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathElement.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathElement.h
 CMakeFiles/shell.dir/runtime/src/tree/xpath/XPathLexer.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/ANTLRErrorStrategy.h
@@ -3367,8 +3367,8 @@ CMakeFiles/shell.dir/runtime/src/tree/xpath/XPathLexer.cpp.o
  ../runtime/src/tree/xpath/XPathTokenElement.h
  ../runtime/src/tree/xpath/XPathWildcardAnywhereElement.h
  ../runtime/src/tree/xpath/XPathWildcardElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathLexer.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathLexer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathLexer.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathLexer.h
 CMakeFiles/shell.dir/runtime/src/tree/xpath/XPathLexerErrorListener.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/BaseErrorListener.h
@@ -3377,8 +3377,8 @@ CMakeFiles/shell.dir/runtime/src/tree/xpath/XPathLexerErrorListener.cpp.o
  ../runtime/src/antlr4-common.h
  ../runtime/src/support/Declarations.h
  ../runtime/src/support/guid.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathLexerErrorListener.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathLexerErrorListener.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathLexerErrorListener.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathLexerErrorListener.h
 CMakeFiles/shell.dir/runtime/src/tree/xpath/XPathRuleAnywhereElement.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -3397,7 +3397,7 @@ CMakeFiles/shell.dir/runtime/src/tree/xpath/XPathRuleAnywhereElement.cpp.o
  ../runtime/src/tree/Trees.h
  ../runtime/src/tree/xpath/XPathElement.h
  ../runtime/src/tree/xpath/XPathRuleAnywhereElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathRuleAnywhereElement.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathRuleAnywhereElement.cpp
 CMakeFiles/shell.dir/runtime/src/tree/xpath/XPathRuleElement.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -3414,9 +3414,9 @@ CMakeFiles/shell.dir/runtime/src/tree/xpath/XPathRuleElement.cpp.o
  ../runtime/src/tree/ParseTree.h
  ../runtime/src/tree/TerminalNode.h
  ../runtime/src/tree/Trees.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathRuleElement.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathRuleElement.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathElement.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathRuleElement.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathRuleElement.h
 CMakeFiles/shell.dir/runtime/src/tree/xpath/XPathTokenAnywhereElement.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -3433,9 +3433,9 @@ CMakeFiles/shell.dir/runtime/src/tree/xpath/XPathTokenAnywhereElement.cpp.o
  ../runtime/src/tree/ParseTree.h
  ../runtime/src/tree/TerminalNode.h
  ../runtime/src/tree/Trees.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathTokenAnywhereElement.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathTokenAnywhereElement.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathElement.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathTokenAnywhereElement.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathTokenAnywhereElement.h
 CMakeFiles/shell.dir/runtime/src/tree/xpath/XPathTokenElement.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -3454,9 +3454,9 @@ CMakeFiles/shell.dir/runtime/src/tree/xpath/XPathTokenElement.cpp.o
  ../runtime/src/tree/ParseTree.h
  ../runtime/src/tree/TerminalNode.h
  ../runtime/src/tree/Trees.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathTokenElement.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathTokenElement.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathElement.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathTokenElement.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathTokenElement.h
 CMakeFiles/shell.dir/runtime/src/tree/xpath/XPathWildcardAnywhereElement.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -3473,10 +3473,10 @@ CMakeFiles/shell.dir/runtime/src/tree/xpath/XPathWildcardAnywhereElement.cpp.o
  ../runtime/src/tree/ParseTree.h
  ../runtime/src/tree/TerminalNode.h
  ../runtime/src/tree/Trees.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPath.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathWildcardAnywhereElement.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathWildcardAnywhereElement.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPath.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathElement.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathWildcardAnywhereElement.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathWildcardAnywhereElement.h
 CMakeFiles/shell.dir/runtime/src/tree/xpath/XPathWildcardElement.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/Exceptions.h
@@ -3493,10 +3493,10 @@ CMakeFiles/shell.dir/runtime/src/tree/xpath/XPathWildcardElement.cpp.o
  ../runtime/src/tree/ParseTree.h
  ../runtime/src/tree/TerminalNode.h
  ../runtime/src/tree/Trees.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPath.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathWildcardElement.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/runtime/src/tree/xpath/XPathWildcardElement.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPath.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathElement.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathWildcardElement.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/runtime/src/tree/xpath/XPathWildcardElement.h
 CMakeFiles/shell.dir/src/CommandVisitor.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/ANTLRErrorStrategy.h
@@ -3654,28 +3654,28 @@ CMakeFiles/shell.dir/src/CommandVisitor.cpp.o
  ../runtime/src/tree/xpath/XPathTokenElement.h
  ../runtime/src/tree/xpath/XPathWildcardAnywhereElement.h
  ../runtime/src/tree/xpath/XPathWildcardElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarBaseVisitor.h
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarParser.h
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarVisitor.h
- /mnt/c/Users/Koen/CLionProjects/Shell/src/CommandVisitor.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/src/CommandVisitor.h
- /mnt/c/Users/Koen/CLionProjects/Shell/src/IORedirect.h
- /mnt/c/Users/Koen/CLionProjects/Shell/src/Pipeline.h
- /mnt/c/Users/Koen/CLionProjects/Shell/src/Sequence.h
- /mnt/c/Users/Koen/CLionProjects/Shell/src/SimpleCommand.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarBaseVisitor.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarParser.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarVisitor.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/CommandVisitor.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/CommandVisitor.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/IORedirect.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/Pipeline.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/Sequence.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/SimpleCommand.h
 CMakeFiles/shell.dir/src/Pipeline.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/src/IORedirect.h
- /mnt/c/Users/Koen/CLionProjects/Shell/src/Pipeline.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/src/Pipeline.h
- /mnt/c/Users/Koen/CLionProjects/Shell/src/SimpleCommand.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/IORedirect.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/Pipeline.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/Pipeline.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/SimpleCommand.h
 CMakeFiles/shell.dir/src/Sequence.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/src/Pipeline.h
- /mnt/c/Users/Koen/CLionProjects/Shell/src/Sequence.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/src/Sequence.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/Pipeline.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/Sequence.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/Sequence.h
 CMakeFiles/shell.dir/src/SimpleCommand.cpp.o
- /mnt/c/Users/Koen/CLionProjects/Shell/src/IORedirect.h
- /mnt/c/Users/Koen/CLionProjects/Shell/src/SimpleCommand.cpp
- /mnt/c/Users/Koen/CLionProjects/Shell/src/SimpleCommand.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/IORedirect.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/SimpleCommand.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/SimpleCommand.h
 CMakeFiles/shell.dir/src/main.cpp.o
  ../runtime/src/ANTLRErrorListener.h
  ../runtime/src/ANTLRErrorStrategy.h
@@ -3833,10 +3833,10 @@ CMakeFiles/shell.dir/src/main.cpp.o
  ../runtime/src/tree/xpath/XPathTokenElement.h
  ../runtime/src/tree/xpath/XPathWildcardAnywhereElement.h
  ../runtime/src/tree/xpath/XPathWildcardElement.h
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarBaseVisitor.h
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarLexer.h
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarParser.h
- /mnt/c/Users/Koen/CLionProjects/Shell/gen/ShellGrammarVisitor.h
- /mnt/c/Users/Koen/CLionProjects/Shell/src/CommandVisitor.h
- /mnt/c/Users/Koen/CLionProjects/Shell/src/Sequence.h
- /mnt/c/Users/Koen/CLionProjects/Shell/src/main.cpp
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarBaseVisitor.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarLexer.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarParser.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/gen/ShellGrammarVisitor.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/CommandVisitor.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/Sequence.h
+ /mnt/c/Users/benja/CLionProjects/Shell2.0/src/main.cpp
