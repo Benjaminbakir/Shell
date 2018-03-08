@@ -13,15 +13,22 @@
   <component name="ChangeListManager">
     <list default="true" id="cd9ef877-bf88-4df7-b336-7745e3fec375" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.5.1/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.5.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.5.1/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.5.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.5.1/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.5.1/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/shell.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/shell.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/shell.dir/src/CommandVisitor.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/shell.dir/src/CommandVisitor.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/shell.dir/src/Pipeline.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/shell.dir/src/Pipeline.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/shell.dir/src/SimpleCommand.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/shell.dir/src/SimpleCommand.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/shell" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/shell" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IORedirect.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/IORedirect.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pipeline.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pipeline.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SimpleCommand.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleCommand.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SimpleCommand.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleCommand.h" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored mask="rest-client.private.env.json" />
@@ -79,11 +86,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleCommand.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SimpleCommand.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SimpleCommand.cpp">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pipeline.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Pipeline.h">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -97,11 +113,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pipeline.cpp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Pipeline.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Pipeline.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            <state relative-caret-position="564">
+              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -139,9 +155,9 @@
         <option value="$PROJECT_DIR$/ShellGrammar.g4" />
         <option value="$PROJECT_DIR$/src/main.cpp" />
         <option value="$PROJECT_DIR$/src/IORedirect.h" />
-        <option value="$PROJECT_DIR$/src/Pipeline.cpp" />
         <option value="$PROJECT_DIR$/src/SimpleCommand.h" />
         <option value="$PROJECT_DIR$/src/SimpleCommand.cpp" />
+        <option value="$PROJECT_DIR$/src/Pipeline.cpp" />
       </list>
     </option>
   </component>
@@ -232,7 +248,9 @@
       <workItem from="1520099301316" duration="2705000" />
       <workItem from="1520331226018" duration="10090000" />
       <workItem from="1520343982489" duration="2403000" />
-      <workItem from="1520346460421" duration="611000" />
+      <workItem from="1520346460421" duration="2952000" />
+      <workItem from="1520494582862" duration="709000" />
+      <workItem from="1520500620482" duration="1126000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1519394732674</created>
@@ -248,22 +266,30 @@
       <option name="project" value="LOCAL" />
       <updated>1520336703594</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="aanpassingen">
+      <created>1520347318385</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1520347318386</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34922000" />
+    <option name="totallyTimeSpent" value="39098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3131524" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3131524" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="CMake" order="7" sideWeight="0.49375" weight="0.3871409" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.48225468" weight="0.32629356" />
+      <window_info anchor="bottom" id="CMake" order="7" sideWeight="0.49375" weight="0.38331574" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5177453" side_tool="true" weight="0.3272921" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49895614" weight="0.32942432" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47912318" weight="0.3304904" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47912318" visible="true" weight="0.3326226" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32968536" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -277,7 +303,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.48225468" weight="0.3272921" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -314,7 +339,8 @@
     </ignored-roots>
     <MESSAGE value="test" />
     <MESSAGE value="fork toegevoegd" />
-    <option name="LAST_COMMIT_MESSAGE" value="fork toegevoegd" />
+    <MESSAGE value="aanpassingen" />
+    <option name="LAST_COMMIT_MESSAGE" value="aanpassingen" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -567,13 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pipeline.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/runtime/src/support/Any.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -662,24 +681,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IORedirect.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sequence.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pipeline.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -693,10 +698,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/IORedirect.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SimpleCommand.cpp">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pipeline.h">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pipeline.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
         </state>
       </provider>
     </entry>

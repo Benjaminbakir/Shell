@@ -1,6 +1,7 @@
 #include <iostream>
 #include <unistd.h>
 #include <signal.h>
+#include <fcntl.h>
 #include "SimpleCommand.h"
 
 void SimpleCommand::execute() {
@@ -18,24 +19,11 @@ void SimpleCommand::execute() {
             ls();
         } else if (command == "cat") {
             cat();
-        }else if(command == "mkdir"){
-            mkdir();
-
         }else{
            printf("Unknown command!\n");
 
         }
     }
-}
-
-void SimpleCommand::mkdir(){
-    if(arguments.size()==1){
-
-        char *args[] = {"mkdir", "Hello", NULL};
-        execvp("mkdir", args);
-    }
-    std::cout<< "mkdir" << std::endl;
-
 }
 
 void SimpleCommand::cd() {
@@ -86,6 +74,7 @@ void IORedirect:: execute(){
     }else if(type==APPEND){
 
     }else if(type==INPUT){
+
 
     }
 

@@ -17,9 +17,15 @@ Pipeline::~Pipeline() {
 void Pipeline::execute() {
 	std::cout << "FIXME: You should change Pipeline::execute()" << std::endl;
 
+
+
 	for( SimpleCommand *cmd : commands ) {
 		// FIXME: Probably need to set up some pipe here?
-//		int p[2];
+        if(commands.size()==1){
+            cmd->execute();
+            return;
+        }
+        //		int p[2];
 //		pipe(p);
 //		int cid = fork();
 //		if(cid = 0){
@@ -33,6 +39,7 @@ void Pipeline::execute() {
 //			close(p[1]);
 //			cmd->execute();
 //		}
+
 
 		cmd->execute();
 	}

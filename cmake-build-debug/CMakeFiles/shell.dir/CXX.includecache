@@ -3371,6 +3371,8 @@ unistd.h
 -
 signal.h
 -
+fcntl.h
+-
 SimpleCommand.h
 /mnt/c/Users/Koen/CLionProjects/Shell/src/SimpleCommand.h
 
