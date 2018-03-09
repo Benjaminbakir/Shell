@@ -54,15 +54,3 @@ void SimpleCommand::execCmd() {
 }
 
 
-void IORedirect::execute() {
-    if (type == OUTPUT) {
-        std::cout << "Output" << std::endl;
-
-    } else if (type == APPEND) {
-
-    } else if (type == INPUT) {
-
-
-    }
-
-}
