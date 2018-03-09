@@ -15,9 +15,23 @@ void SimpleCommand::execute() {
         cd();
     } else if (command != "") {
         int isChild = fork();
-        if (redirects.empty() && isChild == 0) {
+        if (isChild == 0){
+            if (redirects.empty()) {
+                execCmd();
+            } else {
+                for (auto ioRedirect : redirects) {
+                    if (ioRedirect.getType() == ioRedirect.OUTPUT){
+                        outRedirection(O_TRUNC, ioRedirect);
+                    } else if ( ioRedirect.getType() == ioRedirect.INPUT){
+                        inRedirection(ioRedirect);
+                    } else if ( ioRedirect.getType() == ioRedirect.APPEND){
+                        outRedirection(O_APPEND, ioRedirect);
+                    }
+                }
+            }
             execCmd();
         }
+
     } else {
         printf("Unknown command!\n");
 
@@ -51,6 +65,32 @@ void SimpleCommand::execCmd() {
     }
     arg.push_back(NULL);
     execvp(c, &arg[0]);
+}
+
+void SimpleCommand::outRedirection(int flag, IORedirect ioRedirect) {
+    const char* file = ioRedirect.getNewFile().c_str();
+
+    int fd = open(file, O_WRONLY | O_CREAT | flag, 0644);
+    if (fd != -1){
+        close(1);
+        dup(3);
+        close(3);
+    }
+
+}
+
+void SimpleCommand::inRedirection(IORedirect ioRedirect) {
+    const char* file = ioRedirect.getNewFile().c_str();
+
+    int fd = open(file, O_RDONLY);
+    if(fd != -1){
+        close(0);
+        dup(3);
+        close(3);
+    }
+
+
+
 }
 
 
