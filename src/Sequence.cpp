@@ -1,4 +1,5 @@
 #include <iostream>
+#include <unistd.h>
 #include "Sequence.h"
 #include "Pipeline.h"
 
@@ -15,10 +16,16 @@ Sequence::~Sequence() {
  * was used - waits for execution to be finished or not.
  */
 void Sequence::execute() {
-	std::cout << "FIXME: You should change Sequence::execute()" << std::endl;
+
 
 	for( Pipeline *p : pipelines ) {
-		// FIXME: More code needed?
-		p->execute();
+		if(p->isAsync()){//we check if the pipe is Async
+		    int cid = fork();
+		    if(cid==0){
+		        p->execute();
+		    }
+		}else{
+            p->execute();
+        }
 	}
 }
