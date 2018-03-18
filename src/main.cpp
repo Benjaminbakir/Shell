@@ -42,7 +42,7 @@ int main() {
 		// just check for 'exit' in the SimpleCommand-class.
 		// You are encouraged to remove this hack and handle things 'the nice way'.
 		if( line == "exit" )
-			break;
+   			break;
 
 		// Create an error listener. This will be called when an error occured.
 		ErrorListener errorListener;
