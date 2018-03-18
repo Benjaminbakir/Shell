@@ -1,4 +1,4 @@
-ToolSet: Ubuntu 16.04.3 LTS@C:\Users\benja\AppData\Local\Microsoft\WindowsApps\ubuntu.exe
+ToolSet: 5.0@C:\MinGW
 Options: 
 
 Options:

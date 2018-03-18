@@ -13,43 +13,21 @@ void SimpleCommand::execute() {
 
     if (command == "cd") {
         cd();
-    } else if(command=="pwd"){
-        pwd();
-
     }else if(command=="exit"){
         std::cout<< "Okay see you soon!" << std::endl;
         exit(0);
     }
     else if (command != "") {
-
         if (redirects.empty()) {
             execCmd();
         } else {
-            for (auto ioRedirect : redirects) {
-                if (ioRedirect.getType() == ioRedirect.OUTPUT) {
-                    outRedirection(O_TRUNC, ioRedirect);
-                } else if (ioRedirect.getType() == ioRedirect.INPUT) {
-                    inRedirection(ioRedirect);
-                } else if (ioRedirect.getType() == ioRedirect.APPEND) {
-                    outRedirection(O_APPEND, ioRedirect);
-                }
-            }
+           ioRedirections();
         }
         execCmd();
-
-
     } else {
         printf("Unknown command!\n");
 
     }
-
-}
-
-
-void SimpleCommand::pwd(){
-    char cwd[1024];
-    getcwd(cwd,sizeof(cwd));
-    std::cout << cwd<< std::endl;
 
 }
 
@@ -63,7 +41,6 @@ void SimpleCommand::cd() {
         const char *c = arguments[0].c_str();
         chdir(c);
     }
-    pwd();
 }
 
 void SimpleCommand::execCmd() {
@@ -83,7 +60,6 @@ void SimpleCommand::execCmd() {
 
 void SimpleCommand::outRedirection(int flag, IORedirect ioRedirect) {
     const char *file = ioRedirect.getNewFile().c_str();
-
     int fd = open(file, O_WRONLY | O_CREAT | flag, 0644);
     if (fd != -1) {
         close(1);
@@ -95,15 +71,24 @@ void SimpleCommand::outRedirection(int flag, IORedirect ioRedirect) {
 
 void SimpleCommand::inRedirection(IORedirect ioRedirect) {
     const char *file = ioRedirect.getNewFile().c_str();
-
     int fd = open(file, O_RDONLY);
     if (fd != -1) {
         close(0);
         dup(3);
         close(3);
     }
+}
 
-
+void SimpleCommand::ioRedirections() {
+    for (auto ioRedirect : redirects) {
+        if (ioRedirect.getType() == ioRedirect.OUTPUT) {
+            outRedirection(O_TRUNC, ioRedirect);
+        } else if (ioRedirect.getType() == ioRedirect.INPUT) {
+            inRedirection(ioRedirect);
+        } else if (ioRedirect.getType() == ioRedirect.APPEND) {
+            outRedirection(O_APPEND, ioRedirect);
+        }
+    }
 }
 
 

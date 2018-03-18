@@ -1,3 +1,3 @@
-/mnt/c/Users/benja/CLionProjects/Shell2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/benja/CLionProjects/Shell2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/benja/CLionProjects/Shell2.0/cmake-build-debug/CMakeFiles/shell.dir
+C:/Users/benja/CLionProjects/Shell/cmake-build-debug/CMakeFiles/shell.dir
+C:/Users/benja/CLionProjects/Shell/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/benja/CLionProjects/Shell/cmake-build-debug/CMakeFiles/rebuild_cache.dir

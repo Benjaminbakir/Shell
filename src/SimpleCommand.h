@@ -24,7 +24,7 @@ class SimpleCommand {
         void execCmd();
         void outRedirection(int, IORedirect);
         void inRedirection(IORedirect);
-        void pwd();
+        void ioRedirections();
 
 
 
