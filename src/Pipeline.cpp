@@ -86,6 +86,6 @@ void Pipeline::execute() {
 
         }
 
-        while(w)
+        
     }
 }
