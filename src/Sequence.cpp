@@ -19,12 +19,13 @@ void Sequence::execute() {
 
 
 	for( Pipeline *p : pipelines ) {
-		if(p->isAsync()){//we check if the pipe is Async
+		if(p->isAsync()){//we kijken of het een async proces is zo ja dan voeren we het uit
 		    int cid = fork();
 		    if(cid==0){
 		        p->execute();
 		    }
 		}else{
+		    //geen async process dus wachten we
             p->execute();
         }
 	}

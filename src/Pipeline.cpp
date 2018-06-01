@@ -25,7 +25,7 @@ void Pipeline::execute() {
         counter++;
         if (commands.size() > 1) {
             if (counter == 1) {
-                //Firts command that has to be execute
+                //Eerste command dat word uitgevoerd(begin van de pijp)
                 pipe(Pipe);
 
                 int cid = fork();
@@ -37,8 +37,10 @@ void Pipeline::execute() {
                     cmd->execute();
                     _exit(EXIT_SUCCESS);
                 }
+
+                waitpid(0,0,0);
             }else if(counter!=commands.size()){
-                //the middle section
+                //De commands in het midden
                 int cid = fork();
                 if(cid==0){
                     dup2(Pipe[0],0);
@@ -53,10 +55,12 @@ void Pipeline::execute() {
                     cmd-> execute();
                     _exit(EXIT_SUCCESS);
 
+
                 }
+                waitpid(0,0,0);
 
             }else{
-                //The last command to execute
+                //Laatste command van de pijp
                 int cid = fork();
 
                 if(cid==0){
@@ -66,16 +70,22 @@ void Pipeline::execute() {
                     cmd->execute();
                     _exit(EXIT_SUCCESS);
                 }
+
+                waitpid(0,0,0);
             }
 
 
 
-        } else {//One command so execute it
+        } else {//er is maar een command dus wordt deze uitgevoerd
             int cid = fork();
             if (cid == 0) {
                 cmd->execute();
             }
 
+            waitpid(0,0,0);
+
         }
+
+        while(w)
     }
 }

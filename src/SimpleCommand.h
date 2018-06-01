@@ -28,6 +28,7 @@ class SimpleCommand {
 
 
 
+
 	public:
 		SimpleCommand( std::string const &cmd )
 				: command(cmd)

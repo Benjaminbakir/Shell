@@ -2,6 +2,7 @@
 #include <ANTLRInputStream.h>
 #include <CommonTokenStream.h>
 #include <tree/ParseTree.h>
+#include <unistd.h>
 #include "../gen/ShellGrammarLexer.h"
 #include "../gen/ShellGrammarParser.h"
 #include "CommandVisitor.h"
@@ -27,6 +28,8 @@ public:
 };
 
 int main() {
+
+
 	static const char *PROMPT = "-> ";
 	while( true ) {
 		// Print a prompt
